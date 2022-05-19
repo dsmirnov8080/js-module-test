@@ -1,4 +1,4 @@
-import * as mainfunctions from './main';
+import * as mainfunctions from './main.js';
 
 function warn(name) {
 return `I am warning you, ${mainfunctions.capitalize(name)}!`;
